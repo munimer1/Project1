@@ -1,0 +1,21 @@
+body{
+	background-color: gray;
+}
+
+.line1 {
+	margin: 20px;
+
+	padding: 20px;
+}
+
+.line1 {
+	display: inline-block;
+}
+
+img {
+	float: left;
+}
+
+.line2 {
+	width: 300px;
+}

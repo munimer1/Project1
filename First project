@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+   <tittle>Hello</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<h1>Patrice Alleyne</h1>
+<h2>Instructor, NYCDA,</h2>
+<p class="second-paragraph"> Welcome to my Page</p>
+<h1>Hello world</h1>
+<h2>My name is Patrice</h2>
+
+<a herf="https://www.amazon.com/" target="blank">
+
+<p class="first-paragraph"> I am a student at NYSDA</p>
+
+<p>I am loving my first day</p>
+<p>Tomorrow will be awesome</p>
+<img src="https://s-media-cache-ak0.pinimg.com/736x/07/c3/45/07c345d0eca11d0bc97c894751ba1b46.jpg" width="300">
+<img src="http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg" width="300">
+
+</body>
+</html>
+

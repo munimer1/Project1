@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+   <link rel="stylesheet" type="text/css" href="D22style.css">
+</head>
+<body>
+ 
+ <div class="line1"><span style="color: black;font-weight: bold;">Day two is awesome</span></div>
+ 
+ <div class="line1"><span style="color: black;font-weight: bold;">It's time for lunch</span></div>
+ 
+ <div class="line1"><span style="color: black;font-weight: bold;">Lunch is for a hour</span></div>
+ 
+ <div class="line1"> <span style="color: black;font-weight: bold;">After lunch we have more work</span></div>
+ 
+ <div class="line1"><span style="color: black;font-weight: bold;">Today homework is due</span></div>
+
+ <img class="line2" src="http://www.planwallpaper.com/static/images/desktop-year-of-the-tiger-images-wallpaper.jpg">
+ 
+</body>
+</html>
